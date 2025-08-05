@@ -10,4 +10,4 @@ Technologies:
 -VITE
 -TAILWINDS
 
-Marx Leal, Clan sierra, marximusleal568@gmail.com, CC1151472436
+Marx Leal, Clan sierra, marximusleal568@gmail.com
